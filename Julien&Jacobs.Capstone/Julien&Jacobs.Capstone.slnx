@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Julien&amp;Jacobs.Capstone/Julien&amp;Jacobs.Capstone.vcxproj" Id="d4c5c336-96a6-479b-915c-8979e379ec77" />
+</Solution>
